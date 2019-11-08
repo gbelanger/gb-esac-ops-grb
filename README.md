@@ -37,5 +37,7 @@ The files created are:
 - obs_dataOnly.csv
 - pointings.html is the result of the second wget query, and the useful part of it called 
 - pointings_dataOnly.txt
+
 (All removed at the end of the script.)
+
 - email_gcn16004.txt (where the part after 'email_' is the name of the input GCN text file.)
