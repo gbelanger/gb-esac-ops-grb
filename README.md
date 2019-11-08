@@ -8,7 +8,7 @@ proposal numbers, the people that should receive the email, and the data rights.
 
 ## USAGE
 - Step 1 -- Copy the text from the GCN Circular into a text file (e.g. gcn16004.txt)
-- Step 2 -- `./processGRB.sh gcn16004.txt`
+- Step 2 -- Run `./processGRB.sh gcn16004.txt`
 - Step 3 -- Check that everything in the email is fine before sending
 
 ## DESCRIPTION
