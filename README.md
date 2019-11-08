@@ -7,9 +7,9 @@ Both the script and the template have to be adapted for each AO depending on the
 proposal numbers, the people that should receive the email, and the data rights.
 
 ## USAGE
-- Step 1   Copy the text from the GCN Circular into a text file (e.g. gcn16004.txt)
-- Step 2   `./processGRB.sh gcn16004.txt`
-- Step 3   Check that everything in the email is fine before sending
+- Step 1 -- Copy the text from the GCN Circular into a text file (e.g. gcn16004.txt)
+- Step 2 -- `./processGRB.sh gcn16004.txt`
+- Step 3 -- Check that everything in the email is fine before sending
 
 ## DESCRIPTION
 The process involves 4 main steps: 
