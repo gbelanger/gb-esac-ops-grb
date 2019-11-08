@@ -33,11 +33,11 @@ appropriate values calculated or extracted, and defined as variables in the scri
 
 The files created are:
 
-- obs.csv is the result of the first wget query, and the useful part of it called 
-- obs_dataOnly.csv
-- pointings.html is the result of the second wget query, and the useful part of it called 
-- pointings_dataOnly.txt
+- 'obs.csv' is the result of the first wget query, and the useful part of it called 
+- 'obs_dataOnly.csv'
+- 'pointings.html' is the result of the second wget query, and the useful part of it called 
+- 'pointings_dataOnly.txt'
 
 (All removed at the end of the script.)
 
-- email_gcn16004.txt (where the part after 'email_' is the name of the input GCN text file.)
+- 'email_gcn16004.txt' (where the part after 'email_' is the name of the input GCN text file.)
