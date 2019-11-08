@@ -1,26 +1,26 @@
-# FUNCTION
+## FUNCTION
 This script automates the extraction of information about the GRB 
 from the GCN circular and scheduling pages to generate the email to PIs. 
 
-# WARNING
+## WARNING
 Both the script and the template have to be adapted for each AO depending on the 
 proposal numbers, the people that should receive the email, and the data rights.
 
-# USAGE
-Step 1   Copy the text from the GCN Circular into a text file (e.g. gcn16004.txt)
-Step 2   `./processGRB.sh gcn16004.txt`
-Step 3   Check that everything in the email is fine before sending
+## USAGE
+- Step 1   Copy the text from the GCN Circular into a text file (e.g. gcn16004.txt)
+- Step 2   `./processGRB.sh gcn16004.txt`
+- Step 3   Check that everything in the email is fine before sending
 
-#DESCRIPTION
+## DESCRIPTION
 The process involves 4 main steps: 
 
-- 1) Extracting the info from the ciruclar, and define important variables for the email.
-- 2) Getting the scheduling info for the relevant revolution, and determining in which 
+1) Extracting the info from the ciruclar, and define important variables for the email.
+2) Getting the scheduling info for the relevant revolution, and determining in which 
 observation the GRB took place.
-- 3) Getting the details of the pointings for the correct observation, determining the 
+3) Getting the details of the pointings for the correct observation, determining the 
 actual pointing in which it happened, and calculating the angular separation between the 
 pointing axis and the GRB position.
-- 4) Generating the email to PIs using all the information that was extracted and stored 
+4) Generating the email to PIs using all the information that was extracted and stored 
 in the essential variables.
 
 The first is done by text extraction and manipulation methods. Getting the info is done 
@@ -37,9 +37,5 @@ The files created are:
 - obs_dataOnly.csv
 - pointings.html is the result of the second wget query, and the useful part of it called 
 - pointings_dataOnly.txt
-
-(which are removed at the end of the script)
-
-and
-- email_gcn16004.txt 
-(where the part after 'email_' is the name of the input GCN text file
+(All removed at the end of the script.)
+- email_gcn16004.txt (where the part after 'email_' is the name of the input GCN text file.)
