@@ -1,0 +1,28 @@
+To: PIs of the INTEGRAL AO-14 Proposals on GRBs (1440016, 1440018, 1440023)
+To: PI of the INTEGRAL AO-14 Proposal 1420015 - Cas A - Tycho SNR
+Cc: E.vd. Heuvel, C. Shrader, C. Ferrigno, E. Kuulkers, P. Kretschmar, M. Ehle, Integral Helpdesk, ISOC Scientists, ISDC Ops
+
+Re: GRB 170710C
+
+Dear colleagues,
+
+INTEGRAL detected GRB 170710C (GCN 21326) during an observation of the target 'Cas A - Tycho SNR' (proposal: 1420015, PI: Roland Diehl) in revolution 1837.
+
+The GRB occurred on 2017-07-10 at 05:05:15 UT, at the position of RA, Dec (J2000.0) = 352.2526, +51.2935 deg, which was 9.64 degrees off-axis (from pointing ID 18370020 with RA, Dec of 355.891, 60.725 deg).
+
+The flux was 0.3 counts/cm2/s (20-200 keV, 1 s integration time) as reported by IBAS.
+
+The TAC recommendations regarding GRB data rights applicable to the accepted proposals: 1440016 (Savchenko), 1440018 (Gotz), 1440023 (Martin-Carrillo), imply for this GRB that:
+
+1440023 (Martin-Carrillo) is granted data rights on all instruments.
+
+The GRB data on which rights are granted cover at most the time period starting 1 hour before the burst and ending 24 hours after the burst. Please note that data you receive cover the entire FOV around and including the targets of interest in the observation.
+
+Note that 1440018 (Gotz) and _no other proposal_ is granted access to all GRB events but _only_ for polarization studies with IBIS; and 1440016 (Savchenko) gets all IBIS Compton-mode data to study GRBs _outside_ the IBIS PCFOV (the PI is responsible for identifying the appropriate GRBs and informing ISOC). In the case of any coincident GW or high-energy neutrino event, the details concerning data access are handled by the INTEGRAL Project Scientist.
+
+We are looking forward to a successful analysis of the data.
+
+Best regards,
+Guillaume Belanger
+
+On behalf of Erik Kuulkers, INTEGRAL Project Scientist

@@ -1,0 +1,28 @@
+To: PIs of the INTEGRAL AO-{ao} Proposals on GRBs ({grbProposals})
+To: PI of the INTEGRAL AO-{ao} Proposal {proposalNo} - {source}
+Cc: E.vd. Heuvel, N. Webb, C. Ferrigno, E. Kuulkers, G. Belanger, M. Ehle, Integral Helpdesk, ISOC Scientists, ISDC Ops
+
+Re: {grb_name}
+
+Dear colleagues,
+
+INTEGRAL detected {grb_name} (GCN {gcnNo}) during an observation of the target '{source}' (proposal: {proposalNo}, PI: {pi}) in revolution {rev}.
+
+The GRB occurred on {grb_dateAndTime} UT, at the position of RA, Dec (J2000.0) = {grb_ra}, {grb_dec} deg, which was {angDist} degrees off-axis (from pointing ID {pointingID} with RA, Dec of {pointingRa}, {pointingDec} deg).
+
+The flux was {flux_val} counts/cm2/s (20-200 keV, 1 s integration time) as reported by IBAS.
+
+The TAC recommendations regarding GRB data rights applicable to the accepted proposals: {grbProposalsAndPIs}, imply for this GRB that:
+
+{dataRights}
+
+The GRB data on which rights are granted cover at most the time period starting 1 hour before the burst and ending 24 hours after the burst. Please note that data you receive cover the entire FOV around and including the targets of interest in the observation.
+
+{note}
+
+We are looking forward to a successful analysis of the data.
+
+Best regards,
+Guillaume Belanger
+
+On behalf of Erik Kuulkers, INTEGRAL Project Scientist

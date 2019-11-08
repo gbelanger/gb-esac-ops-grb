@@ -1,0 +1,28 @@
+To: PIs of the INTEGRAL AO-15 Proposals on GRBs (1540014, 1540019, 1540027, 1540032)
+To: PI of the INTEGRAL AO-15 Proposal 1520033 - Her X-1
+Cc: E.vd. Heuvel, N. Webb, C. Ferrigno, E. Kuulkers, G. Belanger, M. Ehle, Integral Helpdesk, ISOC Scientists, ISDC Ops
+
+Re: GRB180714A 
+
+Dear colleagues,
+
+INTEGRAL detected GRB180714A  (GCN 22946) during an observation of the target 'Her X-1' (proposal: 1520033, PI: Ruediger Staubert) in revolution 1976.
+
+The GRB occurred on 2018-07-14 at 13:01:15 UT, at the position of RA, Dec (J2000.0) = 242.9191, 33.2811 deg, which was 11.24 degrees off-axis (from pointing ID 19760018 with RA, Dec of 256.360, 34.923 deg).
+
+The flux was 0.3 counts/cm2/s (20-200 keV, 1 s integration time) as reported by IBAS.
+
+The TAC recommendations regarding GRB data rights applicable to the accepted proposals: 1540014 (Gotz), 1540019 (Savchenko), 1540027 (Martin-Carrillo), 1540032 (Pozanenko), imply for this GRB that:
+
+1540027 (Martin-Carrillo) is granted data rights on all instruments.
+
+The GRB data on which rights are granted cover at most the time period starting 1 hour before the burst and ending 24 hours after the burst. Please note that data you receive cover the entire FOV around and including the targets of interest in the observation.
+
+Note that 1540014 (Gotz) and _no other proposal_ is granted access to all GRB events but _only_ for polarization studies with IBIS; and 1540019 (Savchenko) gets all IBIS Compton-mode data to study GRBs _outside_ the IBIS PCFOV (the PI is responsible for identifying the appropriate GRBs and informing ISOC). In the case of any coincident GW or high-energy neutrino event, the details concerning data access are handled by the INTEGRAL Project Scientist.
+
+We are looking forward to a successful analysis of the data.
+
+Best regards,
+Guillaume Belanger
+
+On behalf of Erik Kuulkers, INTEGRAL Project Scientist

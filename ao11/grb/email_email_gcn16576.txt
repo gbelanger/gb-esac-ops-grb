@@ -1,0 +1,26 @@
+To: PIs of the INTEGRAL AO-11 Open Time Proposals on GRB (1140003, 1140004, 1140025)
+To: PI of the INTEGRAL AO-11 Open Time Proposal 8860299 - Crab Cal 2014
+Cc: E.vd. Heuvel, L. Bassani, C. Ferrigno, E. Kuulkers, P. Kretschmar, Integral Helpdesk, ISOC Scientists, ISDC Ops
+
+Re: 
+
+Dear colleagues,
+
+INTEGRAL detected  (GCN ) during an observation of proposal 8860299 - Crab Cal 2014 - in revolution 0.
+
+The GRB occurred on 20--0position at on:37:30 UT, at the position of RA, Dec (J2000.0) = ,  deg, which was 0x0p+0vaf degrees off-axis (from pointing ID 14620056 with RA, Dec of 89.104, 18.446 deg).
+
+A preliminary analysis gives a peak flux of about 1.2 counts counts/cm2/s (20-200 keV, 1 s integration time) as reported by IBAS.
+
+The TAC recommendations regarding GRB data rights applicable to the accepted AO-10 proposals: 1140003 (Hurley), 1140004 (Hanlon), 1140025 (Gotz), imply for this GRB that:
+
+1140004 (Hanlon) will be granted data rights on all instruments.
+
+The GRB data on which rights are granted cover at most the time period starting 1 hour before the burst and ending 24 hours after the burst. Please note that data you receive cover the entire FOV around and including the targets of interest in the observation.
+
+We are looking forward to a successful analysis of the data.
+
+Best regards,
+Guillaume Belanger
+
+On behalf of Erik Kuulkers, INTEGRAL Project Scientist

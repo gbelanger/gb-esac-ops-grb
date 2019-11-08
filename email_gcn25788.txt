@@ -1,0 +1,28 @@
+To: PIs of the INTEGRAL AO-16 Proposals on GRBs (1640020, 1640025, 1640033)
+To: PI of the INTEGRAL AO-16 Proposal 1620022 - Galaxy l=0
+Cc: E.vd. Heuvel, C. Ferrigno, E. Kuulkers, G. Belanger, M. Ehle, Integral Helpdesk, ISOC Scientists, ISDC Ops
+
+Re: GRB 190919B
+
+Dear colleagues,
+
+INTEGRAL detected GRB 190919B (GCN 25788) during an observation of the target 'Galaxy l=0' (proposal: 1620022, PI: Rashid Sunyaev) in revolution 2138.
+
+The GRB occurred on 2019-09-19 at 23:46:40 UT, at the position of RA, Dec (J2000.0) = 311.8862, -44.7029 deg, which was 8.91 degrees off-axis (from pointing ID 21380093 with RA, Dec of 301.652, -39.972 deg).
+
+The flux was 0.6 counts/cm2/s (20-200 keV, 1 s integration time) as reported by IBAS.
+
+The TAC recommendations regarding GRB data rights applicable to the accepted proposals: 1640020 (Gotz), 1640025 (Savchenko), 1640033 (Martin-Carrillo), imply for this GRB that:
+
+1640020 (Gotz) is granted data rights for polarization studies with IBIS, 1640025 (Savchenko) is granted access to the data of +/- 1 day around the GRB for follow-up of multi-messenger transients, and 1640033 (Martin-Carrillo) is granted data rights on all instruments for GRB studies excluding those based on polarization with IBIS.
+
+The GRB data on which rights are granted cover at most the time period starting 1 hour before the burst and ending 24 hours after the burst. Please note that data you receive cover the entire FOV around and including the targets of interest in the observation.
+
+Note that the PIs of GRB proposals (Gotz, Savchenko, and Martin-Carrillo) are granted access to the data of all GRB events but for different purposes that do not overlap in their scientific aims.
+
+We are looking forward to a successful analysis of the data.
+
+Best regards,
+Guillaume Belanger
+
+On behalf of Erik Kuulkers, INTEGRAL Project Scientist

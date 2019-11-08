@@ -1,0 +1,28 @@
+To: PIs of the INTEGRAL AO-12 Open Time Proposals on GRB (1240005, 1240028, 1240030, 1240036)
+To: PI of the INTEGRAL AO-12 Open Time Proposal 1120027 - Galactic Center
+Cc: E.vd. Heuvel, L. Bassani, C. Ferrigno, E. Kuulkers, P. Kretschmar, Integral Helpdesk, ISOC Scientists, ISDC Ops
+
+Re: GRB 150305A
+
+Dear colleagues,
+
+INTEGRAL detected GRB 150305A (GCN 17552) during an observation of proposal 1120027 - Galactic Center - in revolution 1514.
+
+The GRB occurred on 2015-03-05 at 09:49:19 UT, at the position of RA, Dec (J2000.0) = 269.7685, -42.6481 deg, which was 7.3 degrees off-axis (from pointing ID 15140083 with RA, Dec of 268.140, -35.489 deg).
+
+The burst had a peak flux of about 0.2 counts/cm2/s (20-200 keV, 1 s integration time) as reported by IBAS.
+
+The TAC recommendations regarding GRB data rights applicable to the accepted AO-10 proposals: 1240005 (Hurley), 1240028 (Gotz), 1240030 (Savchenko) and 1240036 (Hanlon), imply for this GRB that:
+
+1240036 (Hanlon) will be granted data rights on all instruments.
+
+The GRB data on which rights are granted cover at most the time period starting 1 hour before the burst and ending 24 hours after the burst. Please note that data you receive cover the entire FOV around and including the targets of interest in the observation.
+
+Note that 1240030 (Savchenko) gets all IBIS Compton-mode data to study GRBs _outside_ the IBIS PCFOV (the PI is responsible for identifying the appropriate GRB, and inform ISOC), and 1240005 (Hurley) for the IPN program uses SPI-ACS data to correlate with other instruments (these data are public and do not require any observing time).
+
+We are looking forward to a successful analysis of the data.
+
+Best regards,
+Guillaume Belanger
+
+On behalf of Erik Kuulkers, INTEGRAL Project Scientist

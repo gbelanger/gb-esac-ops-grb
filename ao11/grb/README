@@ -1,0 +1,48 @@
+FUNCTION
+This script automates the extraction of information about the GRB 
+from the GCN circular and scheduling pages to generate the email to PIs. 
+
+WARNING
+Both the script and the template are currently tuned for AO-11 and will need to be 
+adapted for each AO depending on the proposal numbers, the people that should receive 
+the email, and the data rights.
+
+USAGE
+Step 1   Copy the text from the GCN Circular into a text file (e.g. gcn16004.txt)
+Step 2   ./processGRB.sh gcn16004.txt
+Step 3   Check that everything in the email is fine before sending
+
+DESCRIPTION
+The process involves 4 main steps: 
+
+1) Extracting the info from the ciruclar, and define important variables for the email.
+
+2) Getting the scheduling info for the relevant revolution, and determining in which 
+observation the GRB took place.
+
+3) Getting the details of the pointings for the correct observation, determining the actual 
+pointing in which it happened, and calculating the angular separation between the pointing 
+axis and the GRB position.
+
+4) Generating the email to PIs using all the information that was extracted 
+and stored in the essential variables.
+
+The first is done by text extraction and manipulation methods. Getting the info is done 
+using wget and manipulating the output in order to get the pertinent details. Some loops 
+and processing of these info is also necessary, and everything is clearly commented in the 
+script. Some actions also rely on external tools (calc.pl, whatrev.sh, GetRev.awk, datediff.pl) 
+and my own java programmes Hms2deg and GetAngularDist. Generating the email is based 
+on a template in which the key variables are labelled using braces and replaced with the 
+appropriate values calculated or extracted, and defined as variables in the script.
+
+The files created are:
+
+- obs.csv is the result of the first wget query, and the useful part of it called 
+- obs_dataOnly.csv
+- pointings.html is the result of the second wget query, and the useful part of it called 
+- pointings_dataOnly.txt
+(which are removed at the end of the script)
+
+and
+- email_gcn16004.txt 
+(where the part after 'email_' is the name of the input GCN text file

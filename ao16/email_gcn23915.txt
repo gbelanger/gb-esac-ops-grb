@@ -1,0 +1,28 @@
+To: PIs of the INTEGRAL AO-16 Proposals on GRBs (1640020, 1640025, 1640033)
+To: PI of the INTEGRAL AO-16 Proposal 1620027 - Sco X-1
+Cc: E.vd. Heuvel, N. Webb, C. Ferrigno, E. Kuulkers, G. Belanger, M. Ehle, Integral Helpdesk, ISOC Scientists, ISDC Ops
+
+Re: GRB 190220B
+
+Dear colleagues,
+
+INTEGRAL detected GRB 190220B (GCN 23915) during an observation of the target 'Sco X-1' (proposal: 1620027, PI: Sara Elisa Motta) in revolution 2059.
+
+The GRB occurred on 2019-02-20 at 20:12:43 UT, at the position of RA, Dec (J2000.0) = 242.4512, -21.1314 deg, which was 10.76 degrees off-axis (from pointing ID 20590033 with RA, Dec of 240.608, -10.518 deg).
+
+The flux was 0.2 counts/cm2/s (20-200 keV, 1 s integration time) as reported by IBAS.
+
+The TAC recommendations regarding GRB data rights applicable to the accepted proposals: 1640020 (Gotz), 1640025 (Savchenko), 1640033 (Martin-Carrillo), imply for this GRB that:
+
+1640020 (Gotz) is granted data rights for polarization studies with IBIS, 1640025 (Savchenko) is granted access to the data of +/- 1 day around the GRB for follow-up of multi-messenger transients, and 1640033 (Martin-Carrillo) is granted data rights on all instruments for GRB studies excluding those based on polarization with IBIS.
+
+The GRB data on which rights are granted cover at most the time period starting 1 hour before the burst and ending 24 hours after the burst. Please note that data you receive cover the entire FOV around and including the targets of interest in the observation.
+
+Note that the PIs of GRB proposals (Gotz, Savchenko, and Martin-Carrillo) are granted access to the data of all GRB events but for different purposes that do not overlap in their scientific aims.
+
+We are looking forward to a successful analysis of the data.
+
+Best regards,
+Guillaume Belanger
+
+On behalf of Erik Kuulkers, INTEGRAL Project Scientist

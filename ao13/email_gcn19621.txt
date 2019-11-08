@@ -1,0 +1,28 @@
+To: PIs of the INTEGRAL AO-13 Proposals on GRBs (1340001, 1340002, 1340007, 1340011, 1340021, 1340030)
+To: PI of the INTEGRAL AO-13 Proposal 1320004 - Cas A - Tycho SNR
+Cc: E.vd. Heuvel, B. McBreen, C. Shrader, C. Ferrigno, E. Kuulkers, P. Kretschmar, Integral Helpdesk, ISOC Scientists, ISDC Ops
+
+Re: GRB 160629A
+
+Dear colleagues,
+
+INTEGRAL detected GRB 160629A (GCN 19621) during an observation of the target 'Cas A - Tycho SNR' (proposal: 1320004, PI: Roland Diehl) in revolution 1696.
+
+The GRB occurred on 2016-06-29 at 22:19:30 UT, at the position of RA, Dec (J2000.0) = 4.7618, 76.9468 deg, which was 13.53 degrees off-axis (from pointing ID 16960013 with RA, Dec of 352.572, 63.971 deg).
+
+The flux was 2.6 counts/cm2/s (20-200 keV, 1 s integration time) as reported by IBAS.
+
+The TAC recommendations regarding GRB data rights applicable to the accepted proposals: 1340001 (Hurley), 1340002 (Gotz), 1340007 (Pozanenko), 1340011 (Ferrigno), 1340021 (Savchenko), 1340030 (Martin-Carrillo), imply for this GRB that:
+
+1340007 (Pozanenko) is granted data rights on all instruments.
+
+The GRB data on which rights are granted cover at most the time period starting 1 hour before the burst and ending 24 hours after the burst. Please note that data you receive cover the entire FOV around and including the targets of interest in the observation.
+
+Note that 1340001 (Hurley) for the IPN program uses SPI-ACS data to correlate with other instruments (these data are public and do not require any observing time); 1340002 (Gotz) and _no other proposal_ is granted access to all GRB events but _only_ for polarization studies with IBIS; 1340011 (Ferrigno) is not granted data rights and must consult with the Project Scientist on any potentional GW events; and 1340021 (Savchenko) gets all IBIS Compton-mode data to study GRBs _outside_ the IBIS PCFOV (the PI is responsible for identifying the appropriate GRBs and informing ISOC).
+
+We are looking forward to a successful analysis of the data.
+
+Best regards,
+Guillaume Belanger
+
+On behalf of Erik Kuulkers, INTEGRAL Project Scientist

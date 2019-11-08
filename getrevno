@@ -1,0 +1,6 @@
+#!/bin/bash
+
+IDX_DIR=/Users/gbelanger/Documents/active/i/integral/idx/
+
+echo "Copying revno file from intl10.iuser.lan ..."
+scp gbelanger@intl10.iuser.lan:/isoc/data/ORBI/copy/revno $IDX_DIR

@@ -1,0 +1,115 @@
+AO-14 EXTRAGALACTIC TOO STRATEGY 
+
+    INTEGRAL TAC PANEL 2 
+    Chair: 
+    Version: 1.0 
+    Date: 2017-07-13 
+
+
+This document describes the TOO strategy for extragalactic objects.
+The trigger criteria for all accepted proposals are detailed below.
+The proposals are ordered according to their ID.
+
+===============================================================
+THE ACCEPTED - TOO - PROPOSALS ARE:
+===============================================================
+
+1440027 Bottacini (eugenio.bottacini@stanford.edu)
+1440026 Kreikenbohm (akreikenbohm@astro.uni-wuerzburg.de)
+1440024 Santander (santander@nevis.columbia.edu)
+1440010 Pian (elena.pian@sns.it)
+1440003 Panessa (francesca.panessa@iaps.inaf.it)
+1440004 Zhang (szhang@mail.ihep.ac.cn)
+
+
+===============================================================
+1440027 (Bottacini: eugenio.bottacini@stanford.edu) GRADE: A 27 
+An INTEGRAL ToO on 3C 279: New Challenges for the Jet Physics 
+
+TARGET:  3C 279
+GRANTED:  One outburst.
+TRIGGER:  Fermi flux of 16 x 10e-6 ph/cm2/s
+STRATEGY:  200 ks in 5x5 ASAP after trigger.  
+COMMENT:  Minimum exposure of 200 ks; Maximum of 600 ks. Determine the detection significance of the observed source using the first half of the data from the ISDC quick-look analysis. The PI must contact the ISDC and inform ISOC of the result. If the source is detected to a level greater or equal to 5 sigma in ISGRI, schedule the second orbit immediately following the first. If not, the end of the first orbit marks the end of the observation. Apply the same strategy for the third orbit.
+
+===============================================================
+1440026 (Kreikenbohm: akreikenbohm@astro.uni-wuerzburg.de) GRADE: A 28 
+Multiwavelength Spectral Variability of Very-High-Energy Blazar Outbursts detected by FACT 
+
+TARGET:  Mrk 421, Mrk 501
+GRANTED:  One outburst.
+TRIGGER:  FACT 70 events or more per hour.
+STRATEGY:  200 ks in 5x5 on target ASAP after trigger.
+COMMENT:  For INTEGRAL - schedule one orbit and determine the detection significance of the observed source using the first half of the data from the ISDC quick-look analysis. The PI must contact the ISDC and inform ISOC of the result. If the source is detected to a level greater or equal to 5 sigma in ISGRI, schedule the second orbit immediately following the first. If not, the end of the first orbit marks the end of the observation. Apply the same strategy for the third orbit. (max 500 ks, min 200 ks). For Swift - 1 ks monitoring weekly during the overlap of FACT and INTEGRAL visibility windows. After the FACT trigger, 2 ks observations per day for 5 days during the transition from the FACT trigger to the start of INTEGRAL observations. With an additional 1 ks observations every two days for 20 days following the start of the INTEGRAL observation.
+
+===============================================================
+1440024 (Santander: santander@nevis.columbia.edu) GRADE: A 25 
+Hunting for the sources of high-energy astrophysical neutrinos with INTEGRAL 
+
+TARGET:  Neutrino Event
+GRANTED:  up to 4 snapshots.
+TRIGGER:  High-energy neutrino event.
+STRATEGY:  40 ks in 5x5 on target ASAP after trigger.
+COMMENT:  Four events per year are expected; one is expected to be astrophysical in nature.
+
+===============================================================
+1440010 (Pian: elena.pian@sns.it) GRADE: A 28 
+INTEGRAL OBSERVATIONS OF BLAZARS IN OUTBURST 
+
+TARGET:  One blazar in target list
+GRANTED:  One outburst.
+TRIGGER:  X-ray (2-10 kev) flux > 20 mCrab for 3 nights, or 20-40 keV flux > 50 mCrab at any time seen by Swift/BAT, IBIS/ISGRI or SPI.
+INTEGRAL:  20-40 keV > 50 mCrab
+STRATEGY:  200 ks in 5x5 ASAP after trigger.  
+COMMENT:  Minimum exposure of 200 ks; Maximum of 600 ks. Determine the detection significance of the observed source using the first half of the data from the ISDC quick-look analysis. The PI must contact the ISDC and inform ISOC of the result. If the source is detected to a level greater or equal to 5 sigma in ISGRI, schedule the second orbit immediately following the first. If not, the end of the first orbit marks the end of the observation. Apply the same strategy for the third orbit.
+
+===============================================================
+1440003 (Panessa: francesca.panessa@iaps.inaf.it) GRADE: A 25 
+Tidal disruption events caught by INTEGRAL 
+
+TARGET:  One TDE
+GRANTED:  One TDE.
+TRIGGER:  Swift/BAT 15-50 keV and/or IBIS/ISGRI 20-40 keV flux > 20 mCrab and/or Maxi/GSC 2-30 keV > 30 mCrab for at least 12 hours.
+INTEGRAL:   20-40 keV > 20 mCrab for 12 hours.
+STRATEGY:  200 ks in 5x5 on target ASAP after trigger.
+COMMENT:  The potential TDE must have a position that is identified within the 2-sigma error radius of the BAT/MAXI/IBAS centroid determination for a normal galaxy that should not be a known X-ray bright AGN, i.e., the 15-50 keV flux at the position of the TDE before the trigger should be less than 2 mCrab. BEFORE activating: 1) Activate an X-ray follow-up by triggering a XRT and/or XMM-Newton observations, to identify the X-ray counterpart and provide high quality X-ray spectra during the decay phase; 2) Activate an optical spectroscopic follow-up to identify and classify the host galaxy; 3) Activate an optical/NIR imaging ground-based follow up to monitor the light curve decay in different bands; 4) Activate a radio campaign to detect radio emission at different spatial resolution (EVLA, VLBI)
+
+===============================================================
+1440004 (Zhang: szhang@mail.ihep.ac.cn) GRADE: C 18 
+Hard X-ray excess as a probe to the gamma-ray flare of PKS 0208-512 
+
+TARGET:  PKS 0208-512
+GRANTED:  All data on target.
+TRIGGER:  Fermi flux of 4 x 10e−7 ph/cm2/s  above 100 MeV.
+STRATEGY:  500 ks in 5x5 on target ASAP after trigger.
+
+
+===============================================================
+THE ACCEPTED - GRB - PROPOSALS ARE:
+===============================================================
+
+1440016 Savchenko (savchenk@apc.in2p3.fr)
+1440023 Martin-Carrillo (antonio.martin-carrillo@ucd.ie)
+1440018 Gotz (diego.gotz@cea.fr)
+
+===============================================================
+1440016 (Savchenko: savchenk@apc.in2p3.fr) GRADE: A 25 
+Proposal for immediate access to the INTEGRAL data of gamma-ray busts outside of the field of view 
+
+TARGET:  GRB
+GRANTED:  Access to data for GRBs outside the IBIS FOV.
+
+===============================================================
+1440023 (Martin-Carrillo: antonio.martin-carrillo@ucd.ie) GRADE: A 26 
+Spectral and temporal behaviour of GRBs observed by INTEGRAL 
+
+TARGET:  GRB
+GRANTED:  All GRBs within the JEM-X FOV, even-numbered GRBs with peak flux >=0.5 ph/cm2/s (20-200 keV) starting with the second, and all those with peak flux < 0.5 ph/cm2/s, for any analysis excluding polarisation studies with IBIS.
+
+===============================================================
+1440018 (Gotz: diego.gotz@cea.fr) GRADE: A 27 
+Measuring the polarization of Gamma-Ray Bursts with INTEGRAL 
+
+TARGET:  GRB
+GRANTED:  All IBIS data of GRBs in the IBIS FOV for polarisation studies.
+===============================================================
