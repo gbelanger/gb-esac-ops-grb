@@ -28,8 +28,8 @@ using `wget` and manipulating the output in order to get the pertinent details. 
 and processing of these info is also necessary, and everything is clearly commented in the 
 script. Some actions also rely on external tools (`calc.pl`, `whatrev.sh`, `GetRev.awk`, `datediff.pl`) 
 and my own java programmes `Hms2deg.jar` and `GetAngularDist.jar`. Generating the email is based 
-on a template in which the key variables are labelled using braces and replaced with the 
-appropriate values calculated or extracted, and defined as variables in the script.
+on a template in which the key variables are labelled using braces and replaced using `sed` with the 
+appropriate values, parsed or calculated, and defined as variables in the script.
 
 The files created are:
 
