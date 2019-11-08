@@ -2,7 +2,7 @@
 This script automates the extraction of information about the GRB 
 from the GCN circular and scheduling pages to generate the email to PIs. 
 
-## WARNING
+## IMPORTANT
 Both the script and the template have to be adapted for each AO depending on the 
 proposal numbers, the people that should receive the email, and the data rights.
 
