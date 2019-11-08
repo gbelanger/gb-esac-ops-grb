@@ -24,10 +24,10 @@ pointing axis and the GRB position.
 in the essential variables.
 
 The first is done by text extraction and manipulation methods. Getting the info is done 
-using wget and manipulating the output in order to get the pertinent details. Some loops 
+using 'wget' and manipulating the output in order to get the pertinent details. Some loops 
 and processing of these info is also necessary, and everything is clearly commented in the 
-script. Some actions also rely on external tools (calc.pl, whatrev.sh, GetRev.awk, datediff.pl) 
-and my own java programmes Hms2deg and GetAngularDist. Generating the email is based 
+script. Some actions also rely on external tools ('calc.pl', 'whatrev.sh', 'GetRev.awk', 'datediff.pl') 
+and my own java programmes 'Hms2deg.jar' and 'GetAngularDist.jar'. Generating the email is based 
 on a template in which the key variables are labelled using braces and replaced with the 
 appropriate values calculated or extracted, and defined as variables in the script.
 
